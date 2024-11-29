@@ -1,0 +1,6 @@
+package ex26_enum_method;
+
+enum Day {
+	MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+	SATURDAY,SUNDAY
+}
